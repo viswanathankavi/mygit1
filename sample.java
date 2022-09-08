@@ -1,2 +1,4 @@
-Class Sample{
+Class Sample
+{
+system.out.println("hello");	
 }
